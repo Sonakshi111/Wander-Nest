@@ -1,6 +1,7 @@
 # 🌍**Wander Nest – Your Gateway to the World**
 
 Welcome to Wander Nest, a sleek and responsive travel agency website crafted to ignite your travelling curiosity. Explore breathtaking destinations, read traveler stories, and connect with us to plan your perfect getaway.
+### 🚧 This is a sample project for learning purposes. Not a real travel service.
 
 ## ✨ **Features**
 
@@ -8,7 +9,7 @@ Clean, modern design with smooth navigation
 
 Responsive across all devices
 
-Real testimonials from happy travelers
+Testimonials from happy travelers
 
 Interactive contact form for trip enquiries
 
