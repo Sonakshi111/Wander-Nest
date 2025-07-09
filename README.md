@@ -19,6 +19,9 @@ Visually rich layout with immersive destination highlights
 
 React / Javascript 
 
+## 🖼️Overview
+![Homepage Screenshot](https://github.com/Sonakshi111/Wander-Nest/blob/efd915cb1561727a73304f107d7eb33e09692875/public/Screenshot%202025-07-09%20063502.png)
+
 ## 🚀 **Getting Started**  
 Clone and run locally:
 
@@ -27,3 +30,8 @@ git clone https://github.com/Sonakshi111/Wander-Nest.git
 cd Wander-Nest
 npm install
 npm start
+```
+
+## 🌐 Demo
+You can view the live sample here:
+https://wander-nest-ebon.vercel.app/
