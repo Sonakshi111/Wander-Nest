@@ -1,5 +1,7 @@
 import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
+import Footer from "../components/Footer";
+import ContactForm from "../components/ContactForm";
 function Contact(){
     return(
         <>
@@ -9,6 +11,8 @@ function Contact(){
             heroImg='src/assets/urban-vintage-78A265wPiO4-unsplash.jpg'
             title='CONTACT'
             />
+            <ContactForm/>
+            <Footer/>
         </>
     )
 }

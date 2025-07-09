@@ -43,13 +43,13 @@
 }
 
 .nav-links:hover {
-    background-color: #01959a;
+    background-color:  rgb(119, 176, 229);;
     color: aliceblue;
     border-radius: 4px;
     transition: all 0.2s ease-in-out;
 }
 
-.nav-links-mobile {
+/* .nav-links-mobile {
     display: none;
 }
 
@@ -67,7 +67,7 @@ button {
 button:hover {
     background-color: black;
     color: white;
-}
+}*/
 
 .menu-icons {
     display: none;
@@ -111,13 +111,13 @@ button:hover {
     }
 
     .nav-links:hover {
-        background: #01959a;
+        background:  rgb(119, 176, 229);;
         transition: none;
     }
 
-    button {
+    /* button {
         display: none;
-    }
+    } 
 
     .nav-links-mobile {
         display: block;
@@ -126,13 +126,13 @@ button:hover {
         margin: auto;
         border-radius: 4px;
         width: 80%;
-        background: #01959a;
+        background:  rgb(119, 176, 229);;
         color: white;
         text-decoration: none;
         font-size: 1.2rem;
         font-weight: 600;
         letter-spacing: 1.5px;
-    }
+    }*/
 
     .menu-icons {
         display: block;

@@ -1,20 +1,20 @@
-import AboutUs from "../components/AboutUs";
 import Footer from "../components/Footer";
 import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
-function About(){
+import Sign from "../components/Sign";
+function SignUp(){
     return(
         <>
             <Navbar />
             <Hero
-            cName="hero-mid"
-            heroImg='src/assets/benjamin-davies-mqN-EV9rNlY-unsplash.jpg'
-            title='ABOUT US'
+            cName="hero-dim"
+            heroImg='src/assets/SignUpImage.jpg'
+            title='SIGN UP'
             />
-            <AboutUs/>
+            <Sign/>
             <Footer/>
         </>
     )
 }
 
-export default About; 
+export default SignUp; 

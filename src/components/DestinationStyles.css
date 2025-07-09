@@ -12,6 +12,7 @@
     justify-content: space-between;
     margin-top: 4.5rem;
 }
+
 .first-des-reverse {
     display: flex;
     flex-direction: row-reverse;
@@ -58,6 +59,12 @@
     }
 
     .first-des {
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: 2.5rem;
+    }
+
+    .first-des-reverse {
         display: flex;
         flex-direction: column-reverse;
         margin-top: 2.5rem;
